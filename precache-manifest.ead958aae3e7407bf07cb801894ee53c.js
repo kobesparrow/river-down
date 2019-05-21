@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "ebd391ad8bafc0d35e67",
-    "url": "/river-down/static/css/main.19937951.chunk.css"
+    "revision": "4f760f75ed6f72c1bb1f",
+    "url": "/river-down/static/css/main.138175ff.chunk.css"
   },
   {
-    "revision": "ebd391ad8bafc0d35e67",
+    "revision": "4f760f75ed6f72c1bb1f",
     "url": "/river-down/static/js/main.356fd232.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/river-down/static/media/cataract-canyon-background.5cf7226f.jpg"
   },
   {
-    "revision": "17809e30c93591509f91c9469bc03b80",
+    "revision": "007561553a9167343a7a4f863d6c6de2",
     "url": "/river-down/index.html"
   }
 ];
